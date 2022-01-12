@@ -116,7 +116,7 @@ h2 span {
 }
 /* hero section */
 #hero {
-  background: url("/img/beach.jpg") no-repeat center center/cover;
+  background: url("../img/beach.jpg") no-repeat center center/cover;
   height: 600px;
 }
 #hero .hero-content {
